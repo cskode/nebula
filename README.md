@@ -1,2 +1,2 @@
-# nebula
+# Nebula
 Nebula content management system
